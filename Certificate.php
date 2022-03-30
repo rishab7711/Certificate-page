@@ -17,11 +17,7 @@
 
 
 <div class="row" > <col-2 > Sr No. </col></div>
-<!-- <div id="barcode" style='float:right;'>
-  insert your custom barcode setting your data in the GET parameter "data"
-  <!-- <img alt='Barcode Generator TEC-IT'
-       src='https://barcode.tec-it.com/barcode.ashx?data=ABC-abc-1234&code=Code128&translate-esc=on'/>
-</div> --> 
+
 
 <div class="text-center">
     
